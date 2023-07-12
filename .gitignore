@@ -6,7 +6,6 @@
 /TAGS
 /data
 /samples-exe
-/*.cabal
 /dist-newstyle
 
 /bench-results
